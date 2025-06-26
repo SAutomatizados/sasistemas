@@ -1,0 +1,48 @@
+.container{
+  
+ 
+  margin-top: -390px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+
+}
+.menu-button{
+  margin-left: auto;
+  cursor: pointer;
+  border-radius: 90px;
+  position: relative;
+ 
+}
+
+
+
+.menu.active{
+  opacity: 1;
+  visibility: visible;
+}
+
+.menu{
+  opacity:0;
+}
+.logo{
+
+  margin-top: -60px;
+  
+  width: 150px;
+  height: 150px;
+  border-radius: 90px;
+}
+
+.link{
+  text-decoration: none;
+  color: blue;
+}
+h3{
+  color: blue;
+}
+
+
+
