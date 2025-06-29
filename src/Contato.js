@@ -19,7 +19,7 @@ export default function Contato() {
        <div className="contato">
       
       <a href="https://www.instagram.com/sistemasautomatizados?gsh=MW51ZWtxemU0b25tdQ==" >
-                <img className='foto' src='./sistemason.svg'/>
+                <img className='foto' src='./sitemason.svg'/>
                 </a>
       
       <a/>
