@@ -40,9 +40,7 @@ export default function Cabecalho() {
           <li className='lost'> 
            <Link className='link'to='/contato' >Contato</Link>
           </li>
-          <li>
-            <Link className='link' to='/suporte'>Projetos Realizados</Link>
-          </li>
+          
           <li>
             <Link className='link' to='/servicos'>Serviços</Link>
             </li>

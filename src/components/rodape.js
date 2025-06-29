@@ -7,7 +7,7 @@ export default function Rodape(){
              
                 <div>
                 
-                <a href="https://w.app/bpm8s5" >
+                <a href="https://api.whatsapp.com/send?phone=5522999040806&text=Ol%C3%A1" >
                 <img className='imgs' src='./whatss.png'/>
                 </a>
             </div>
@@ -19,7 +19,7 @@ export default function Rodape(){
             </div>
             <div >
                 
-                <a className='tel' href="https://w.app/bpm8s5" > Tel:(22)998459515</a>
+                <a className='tel' href="https://api.whatsapp.com/send?phone=5522999040806&text=Ol%C3%A1" > Tel:(22)999040806</a>
             </div>
 
            

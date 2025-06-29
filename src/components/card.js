@@ -14,7 +14,7 @@ export default function Card(props){
       <div>
         
       </div>
-      <a href="">Detalhes</a>
+     
       
 
 
