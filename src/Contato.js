@@ -1,8 +1,14 @@
 import Cabecalho from "./components/Cabecalho";
 import './App.css'
-import PlayerVideos from "./components/PlayerVideo";
-import './Servicos.css'
-export default function Contatos() {
+import Rodape from "./components/rodape";
+import Form from "./components/Form";
+
+
+
+
+
+
+export default function Contato() {
  
 
   return (
@@ -11,16 +17,22 @@ export default function Contatos() {
           <Cabecalho/>
 
       </div>
-      <div>
-     <h3>Contato</h3>
-  
-   
- 
 
+      <div className="contato">
+        <h2>Atendimento</h2>
+        <p>Mande sua Solicitação</p>
+        <p>Formular8io</p>
     </div>
+
+ 
+      
     <div>
-      <h2>Seja bem Vindo</h2>
+         <Rodape/>
+   
+   
+      
     </div>
+   
 
     
 

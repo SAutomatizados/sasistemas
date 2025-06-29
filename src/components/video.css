@@ -1,18 +1,18 @@
 body{
-    
-    margin-top: 150px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    min-height: 100vh;
 
-    
+  
 }
+    
+
 .video_wrap{
     position: absolute;
+    margin-top: 120px;
    
-    margin-top: 110px;
+
     
     width: 40vw;
     height: 40vh;
@@ -26,4 +26,11 @@ body{
     align-items: center;
     justify-content: center;
     color: rgb(56, 55, 55);
+}
+.sempre{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    color: rgb(80, 76, 76);
+
 }

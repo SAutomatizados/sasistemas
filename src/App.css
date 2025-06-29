@@ -1,11 +1,9 @@
 .container{
-  
- 
-  margin-top: -390px;
-
   display: flex;
-  justify-content: space-between;
   align-items: center;
+  justify-content: space-around;
+  padding: 5px;
+  gap: 5px;
 
 
 }
@@ -14,10 +12,9 @@
   cursor: pointer;
   border-radius: 90px;
   position: relative;
+  
  
 }
-
-
 
 .menu.active{
   opacity: 1;
@@ -29,8 +26,7 @@
 }
 .logo{
 
-  margin-top: -60px;
-  
+ 
   width: 150px;
   height: 150px;
   border-radius: 90px;

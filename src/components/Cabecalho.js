@@ -15,6 +15,12 @@ export default function Cabecalho() {
 
   return (
     <div className="container">
+      <div>
+      <img className='logo'
+      
+       src='./logo sa.png' />
+     </div>
+
      <div className='menu-container'>
       <button onClick={onClick}  className='menu-button'>
         <span>Menu</span>
@@ -35,7 +41,7 @@ export default function Cabecalho() {
            <Link className='link'to='/contato' >Contato</Link>
           </li>
           <li>
-            <Link className='link' to='/suporte'>Suporte</Link>
+            <Link className='link' to='/suporte'>Projetos Realizados</Link>
           </li>
           <li>
             <Link className='link' to='/servicos'>Serviços</Link>
@@ -48,12 +54,7 @@ export default function Cabecalho() {
        
 
      </div>
-     <div>
-      <img className='logo'
-      
-       src='./logo sa.png' />
-     </div>
-
+     
 
     
     

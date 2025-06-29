@@ -1,0 +1,19 @@
+.rodape{
+    padding: 5px;
+    gap: 5px;
+   text-align: center;
+  width: 90vw;
+    background-color: rgb(12, 12, 12);
+}
+.imgs{
+   justify-content: space-around;
+    width: 50px;
+    height: 50px;
+  
+
+}
+.tel{
+    color: white;
+    text-decoration: none;
+   
+}

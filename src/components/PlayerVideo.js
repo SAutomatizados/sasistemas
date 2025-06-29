@@ -6,6 +6,7 @@ import myVideo from '../assets/intro.mp4'
 export default function PlayerVideos(){
     return(
         <div>
+           
             
 
             <div className="video_wrap">
@@ -14,9 +15,7 @@ export default function PlayerVideos(){
            
 
         </div>
-        <div className="card">
-        
-        </div>
+       
             
         </div>
       
